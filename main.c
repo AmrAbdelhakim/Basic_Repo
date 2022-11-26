@@ -2,7 +2,7 @@
 
 int main()
 {
-	int x= 10;
+	char master= 88;
 	
 	/*develop version*/
 	int z=x+1;
